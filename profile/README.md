@@ -44,6 +44,6 @@ For any questions or assistance, please feel free to reach out:
 * Seyede Setare Khosravi | TA:&emsp;&emsp;&emsp;&emsp;strhkhosravi@gmail.com
 
 ## License
-The materials in this organization are typically released under the MIT License. However, individual repositories may use different licenses, so please check the specific repository for details.
+The materials in this organization are typically released under the MIT License.
 
 </div>
