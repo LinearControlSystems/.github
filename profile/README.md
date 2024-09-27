@@ -38,10 +38,10 @@ If you encounter any issues with the materials or repositories, please open an i
 ## Contact Information
 For any questions or assistance, please feel free to reach out:
 
-* Dr. Saeed Shamaghdari | Instructor: shamaghdari@iust.ac.ir
-* Danial Arbabian | TA: danialarbabian@gmail.com
-* MohammadReza Piri | TA: mohpir44@gmail.com
-* Seyede Setare Khosravi | TA: strhkhosravi@gmail.com
+* Dr. Saeed Shamaghdari | Instructor:   shamaghdari@iust.ac.ir
+* Danial Arbabian | TA:                 danialarbabian@gmail.com
+* MohammadReza Piri | TA:               mohpir44@gmail.com
+* Seyede Setare Khosravi | TA:          strhkhosravi@gmail.com
 
 ## License
 The materials in this organization are typically released under the MIT License. However, individual repositories may use different licenses, so please check the specific repository for details.
