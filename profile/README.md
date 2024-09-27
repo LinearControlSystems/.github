@@ -1,7 +1,7 @@
 <div align="justify">
 
 # Linear Control Systems
-Welcome to the Linear Control Systems course organization! This repository contains all the necessary resources, materials, and assignments for the course. Here, you'll find everything you need to succeed in your studies and projects related to control systems.
+Welcome to the Linear Control Systems course organization! This organization contains all the necessary resources, materials, and assignments for the course. Here, you'll find everything you need to succeed in your studies and projects related to control systems.
 
 ## Course Outline
 This course, part of the Department of Electrical Engineering at Iran University of Science and Technology, focuses on linear control systems during the Fall 2024 semester.
