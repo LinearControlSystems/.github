@@ -17,19 +17,19 @@ The focus of this organization is on learning MATLAB/Simulink applications in li
 ## Content Layout
 Each repository is divided into the following sections:
 
-* Lecture Notes & Resources: Contains all the lecture materials, slides, and supplementary resources about MATLAB/Simulink.
+* **Lecture Notes & Resources:** Contains all the lecture materials, slides, and supplementary resources about MATLAB/Simulink.
 
-* Assignments/Simulations: Weekly assignments designed to reinforce core concepts. Each assignment covers a specific aspect of MATLAB/Simulink application in control systems.
+* **Assignments/Simulations:** Weekly assignments designed to reinforce core concepts. Each assignment covers a specific aspect of MATLAB/Simulink application in control systems.
 
-* Projects: Collaborative projects where students apply the learned concepts to design and implement control systems, often using MATLAB/Simulink or similar tools.
+* **Projects:** Collaborative projects where students apply the learned concepts to design and implement control systems, often using MATLAB/Simulink or similar tools.
 
-* Reference Materials: A collection of additional books, papers, and technical documentation for students who want to explore beyond the course material.
+* **Reference Materials:** A collection of additional books, papers, and technical documentation for students who want to explore beyond the course material.
 
 ## Assignments & Grading
 The course includes weekly assignments that are crucial to understanding the material. These assignments will involve both theoretical problems and practical applications, using tools like MATLAB/Simulink.
 
-* Assignments/Simulations: Assigned weekly and evaluated to ensure a deep understanding of the material.
-* Projects: projects contributing significantly to your final grade.
+* **Assignments/Simulations:** Assigned weekly and evaluated to ensure a deep understanding of the material.
+* **Projects:** projects contributing significantly to your final grade.
 Assignments and projects will be major components of the final grade, emphasizing the importance of hands-on learning.
 
 ## Contributing
