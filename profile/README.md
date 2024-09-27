@@ -1,3 +1,5 @@
+<div align="justify">
+
 # Linear Control Systems
 Welcome to the Linear Control Systems course organization! This repository contains all the necessary resources, materials, and assignments for the course. Here, you'll find everything you need to succeed in your studies and projects related to control systems.
 
@@ -36,10 +38,12 @@ If you encounter any issues with the materials or repositories, please open an i
 ## Contact Information
 For any questions or assistance, please feel free to reach out:
 
-Dr. Saeed Shamaghdari | Instructor: shamaghdari@iust.ac.ir
-Danial Arbabian | TA: danialarbabian@gmail.com
-MohammadReza Piri | TA: mohpir44@gmail.com
-Seyede Setare Khosravi | TA: strhkhosravi@gmail.com
+* Dr. Saeed Shamaghdari | Instructor: shamaghdari@iust.ac.ir
+* Danial Arbabian | TA: danialarbabian@gmail.com
+* MohammadReza Piri | TA: mohpir44@gmail.com
+* Seyede Setare Khosravi | TA: strhkhosravi@gmail.com
 
 ## License
 The materials in this organization are typically released under the MIT License. However, individual repositories may use different licenses, so please check the specific repository for details.
+
+</div>
