@@ -39,7 +39,7 @@ If you encounter any issues with the materials or repositories, please open an i
 For any questions or assistance, please feel free to reach out:
 
 * Dr. Saeed Shamaghdari | Instructor:&nbsp;&nbsp;&nbsp;&nbsp;shamaghdari@iust.ac.ir
-* Danial Arbabian | TA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;danialarbabian@gmail.com
+* Danial Arbabian | TA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;danialarbabian@gmail.com
 * MohammadReza Piri | TA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mohpir44@gmail.com
 * Seyede Setare Khosravi | TA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;strhkhosravi@gmail.com
 
