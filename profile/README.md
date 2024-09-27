@@ -33,7 +33,7 @@ The course includes weekly assignments that are crucial to understanding the mat
 Assignments and projects will be major components of the final grade, emphasizing the importance of hands-on learning.
 
 ## Contributing
-If you encounter any issues with the materials or repositories, please open an issue on the repository’s issue tracker. Clearly describe the problem, and either the course TAs or community members will help you resolve it.
+If you’d like to contribute to repositories, Report bugs, or propose enhancements by opening an issue in the repository. Be clear and descriptive in your issue, providing relevant details and context. Others can then join the discussion, offer feedback, and collaborate with you. Consider creating a pull request if you’d like to contribute code or documentation. Please provide a clear description of your changes and why they’re valuable.
 
 ## Contact Information
 For any questions or assistance, please feel free to reach out:
