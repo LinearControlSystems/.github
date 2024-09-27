@@ -40,7 +40,7 @@ For any questions or assistance, please feel free to reach out:
 
 * Dr. Saeed Shamaghdari | Instructor:&emsp;shamaghdari@iust.ac.ir
 * Danial Arbabian | TA: &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;danialarbabian@gmail.com
-* MohammadReza Piri | TA:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;mohpir44@gmail.com
+* MohammadReza Piri | TA:&emsp;&emsp;&emsp;&emsp;&emsp;mohpir44@gmail.com
 * Seyede Setare Khosravi | TA:&emsp;&emsp;&emsp;&emsp;strhkhosravi@gmail.com
 
 ## License
