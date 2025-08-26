@@ -4,7 +4,7 @@
 Welcome to the Linear Control Systems course organization! This organization contains all the necessary resources, materials, and assignments for the course. Here, you'll find everything you need to succeed in your studies and projects related to control systems.
 
 ## Course Outline
-This course, part of the Department of Electrical Engineering at Iran University of Science and Technology, focuses on linear control systems during the Fall 2024 semester.
+This course, part of the Department of Electrical Engineering at Iran University of Science and Technology, focuses on linear control systems during the Fall 2025 semester.
 The focus of this organization is on learning MATLAB/Simulink applications in linear control systems, especially in the areas of control system analysis and design. Through practical exercises and projects, students will gain hands-on experience with tools used to model, analyze, and design control systems.
 
 ### Key Topics:
@@ -38,10 +38,14 @@ If you’d like to contribute to repositories, report bugs, or propose enhanceme
 ## Contact Information
 For any questions or assistance, please feel free to reach out:
 
-* Dr. Saeed Shamaghdari | Instructor: shamaghdari@iust.ac.ir
-* Danial Arbabian | TA: danialarbabian@gmail.com
-* MohammadReza Piri | TA: mohpir44@gmail.com
-* Seyede Setare Khosravi | TA: strhkhosravi@gmail.com
+**Instructor**  
+* Dr. Saeed Shamaghdari | shamaghdari@iust.ac.ir  
+
+**Current Teaching Assistants (Fall 2025)**  
+Seyede Setare Khosravi | Nadia Gholamian | Mohammad Mahdi Mohammadi
+
+**Previous Teaching Assistants (Fall 2024)**
+MohammadReza Piri (Head TA) | Seyede Setare Khosravi | Danial Arbabian
 
 ## License
 The materials in this organization are typically released under the MIT License.
