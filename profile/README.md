@@ -42,7 +42,7 @@ For any questions or assistance, please feel free to reach out:
 * Dr. Saeed Shamaghdari | shamaghdari@iust.ac.ir  
 
 **Current Teaching Assistants (Fall 2025)**:  
-* Seyede Setare Khosravi | Nadia Gholamian | Mohammad Mahdi Mohammadi
+* Nadia Gholamian | Mohammad Mahdi Mohammadi
 
 **Previous Teaching Assistants (Fall 2024)**:
 * MohammadReza Piri (Head TA) | Seyede Setare Khosravi | Danial Arbabian
