@@ -42,10 +42,10 @@ For any questions or assistance, please feel free to reach out:
 * Dr. Saeed Shamaghdari | shamaghdari@iust.ac.ir  
 
 **Current Teaching Assistants (Fall 2025)**:  
-* Nadia Gholamian | Mohammad Mahdi Mohammadi
+* Seyedeh Setareh Khosravi (Head TA) | Sina Najafi | Mohammad Mahdi Barzegari | Ali Kebriaei
 
 **Previous Teaching Assistants (Fall 2024)**:
-* MohammadReza Piri (Head TA) | Seyede Setare Khosravi | Danial Arbabian
+* MohammadReza Piri (Head TA) | Seyedeh Setareh Khosravi | Danial Arbabian
 
 ## License
 The materials in this organization are typically released under the MIT License.
